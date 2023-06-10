@@ -1,0 +1,1 @@
+Run the git commands in the bash terminal
